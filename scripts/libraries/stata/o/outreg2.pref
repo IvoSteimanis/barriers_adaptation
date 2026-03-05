@@ -1,0 +1,3 @@
+17 Oct 2022
+using `"C:\Users\istei\OneDrive\Promotion\1_Projects\PES_Colombia\analysis/results/tables/TableS9_donation_recall.txt"'
+addstat("Adjusted R-squared", e(r2_a), "Socio-economics", 2.58324594044e-06, "Trust & Involvement", .0432209506171729, "Experience with NGOs", .1565824203000203) adec(3) word ctitle("Donation Amount") dec(2) append
