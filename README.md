@@ -50,27 +50,31 @@ All packages are bundled in `scripts/libraries/` and ready to use.
 
 ## Output Mapping
 
-### Figures
+### Main Text Figures
 
-| Output file | Manuscript location |
-|-------------|-------------------|
-| `figure3_motivated_reasoning.png` | Figure 3 — Motivated reasoning (Study 1) |
-| `figure4_motivated_reasoning_awareness.png` | Figure 4 — Information avoidance and risk awareness |
-| `figure5_sunkcosts.png` | Figure 5 — Sunk cost bias (Study 2) |
-| `figureS1_sunk_cost_treatment.png` | Figure S1 — Sunk cost by treatment group |
-| `figure6_risk_time_efficacy.png` | Figure 6 — Risk, patience, and self-efficacy distributions |
-| `figure8_behavioral_mobilty_types.png` | Figure 8 — Behavioral factors by mobility type |
+| Output file | Location | Content |
+|-------------|----------|---------|
+| `figure2_motivated_reasoning.png` | Figure 2 | Information avoidance: prevalence, subgroup differences, and association with risk awareness (Study 1) |
+| `figure3_sunkcosts.png` | Figure 3 | Sunk-cost bias: stated reasons for staying and subgroup differences (Study 2) |
+| `figure4_risk_time_efficacy.png` | Figure 4 | Risk taking, patience, and self-efficacy distributions with GPS reference sample |
 
-### Tables
+### Supplementary Figures
 
-| Output file | SOM Table | Content |
-|-------------|-----------|---------|
+| Output file | Location | Content |
+|-------------|----------|---------|
+| `figureS3_sunk_cost_treatment.png` | Figure S3 | Sunk-cost reasons by experimental treatment group |
+| `figureS4_behavioral_mobilty_types.png` | Figure S4 | Behavioral factors by mobility type |
+
+### Supplementary Tables
+
+| Output file | Location | Content |
+|-------------|----------|---------|
 | `reasons_ignore.rtf` | Table S1 | Reasons for ignoring information (Study 1) |
 | `tableS4_summary_statistics_study1.rtf` | Table S4 | Summary statistics: Study 1 |
 | `tableS5_summary_statistics_study2.rtf` | Table S5 | Summary statistics: Study 2 |
 | `tableS6_motivated_reasoning_across_groups.rtf` | Table S6 | Information avoidance across socio-economic groups |
-| `tableS7_stage1_results.rtf` | Table S7 | Stage 1: Effect of information avoidance on risk awareness |
-| `tableS8_sunk_costs_across_groups.rtf` | Table S8 | Sunk cost bias across socio-economic groups |
+| `tableS7_stage1_results.rtf` | Table S7 | Association of information avoidance with risk awareness |
+| `tableS8_sunk_costs_across_groups.rtf` | Table S8 | Sunk-cost bias across respondent groups |
 | `tableS9_risk_time_efficacy_across_groups.rtf` | Table S9 | Risk taking, patience, self-efficacy index, and individual self-efficacy items across groups |
 | `tableS10_determinants_behavioral.rtf` | Table S10 | Determinants of behavioral factors by mobility type |
 
